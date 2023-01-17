@@ -2,8 +2,8 @@ package smartcard
 
 import (
 	"github.com/GridPlus/keycard-go/io"
-	"github.com/GridPlus/phonon-core/pkg/backend/smartcard/usb"
-	"github.com/GridPlus/phonon-core/pkg/model"
+	"github.com/PhononDAO/phonon-core/pkg/backend/smartcard/usb"
+	"github.com/PhononDAO/phonon-core/pkg/model"
 	"github.com/sirupsen/logrus"
 )
 

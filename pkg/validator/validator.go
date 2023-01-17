@@ -3,7 +3,7 @@ package validator
 import (
 	"errors"
 
-	"github.com/GridPlus/phonon-core/pkg/model"
+	"github.com/PhononDAO/phonon-core/pkg/model"
 )
 
 var ErrMissingPubKey = errors.New("phonon missing public key")

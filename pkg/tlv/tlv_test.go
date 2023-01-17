@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/GridPlus/keycard-go/hexutils"
-	"github.com/GridPlus/phonon-core/internal/util"
+	"github.com/PhononDAO/phonon-core/internal/util"
 	log "github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/require"
 )

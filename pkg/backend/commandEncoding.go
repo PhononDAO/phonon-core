@@ -5,10 +5,10 @@ import (
 	"encoding/binary"
 	"errors"
 
-	"github.com/GridPlus/phonon-core/internal/util"
-	"github.com/GridPlus/phonon-core/pkg/cert"
-	"github.com/GridPlus/phonon-core/pkg/model"
-	"github.com/GridPlus/phonon-core/pkg/tlv"
+	"github.com/PhononDAO/phonon-core/internal/util"
+	"github.com/PhononDAO/phonon-core/pkg/cert"
+	"github.com/PhononDAO/phonon-core/pkg/model"
+	"github.com/PhononDAO/phonon-core/pkg/tlv"
 	ethcrypto "github.com/ethereum/go-ethereum/crypto"
 
 	log "github.com/sirupsen/logrus"

@@ -3,7 +3,7 @@ package backend
 import (
 	"testing"
 
-	"github.com/GridPlus/phonon-core/internal/util"
+	"github.com/PhononDAO/phonon-core/internal/util"
 
 	log "github.com/sirupsen/logrus"
 )

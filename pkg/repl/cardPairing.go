@@ -3,8 +3,8 @@ package repl
 import (
 	"strconv"
 
-	"github.com/GridPlus/phonon-core/pkg/model"
-	"github.com/GridPlus/phonon-core/pkg/orchestrator"
+	"github.com/PhononDAO/phonon-core/pkg/model"
+	"github.com/PhononDAO/phonon-core/pkg/orchestrator"
 	"github.com/abiosoft/ishell/v2"
 )
 

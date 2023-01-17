@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/GridPlus/phonon-core/pkg/orchestrator"
+	"github.com/PhononDAO/phonon-core/pkg/orchestrator"
 
 	ishell "github.com/abiosoft/ishell/v2"
 )

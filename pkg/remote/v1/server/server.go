@@ -10,9 +10,9 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/GridPlus/phonon-core/internal/util"
-	"github.com/GridPlus/phonon-core/pkg/cert"
-	v1 "github.com/GridPlus/phonon-core/pkg/remote/v1"
+	"github.com/PhononDAO/phonon-core/internal/util"
+	"github.com/PhononDAO/phonon-core/pkg/cert"
+	v1 "github.com/PhononDAO/phonon-core/pkg/remote/v1"
 	"github.com/posener/h2conn"
 	log "github.com/sirupsen/logrus"
 )

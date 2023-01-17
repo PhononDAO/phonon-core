@@ -9,8 +9,8 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/GridPlus/phonon-core/internal/util"
-	"github.com/GridPlus/phonon-core/pkg/model"
+	"github.com/PhononDAO/phonon-core/internal/util"
+	"github.com/PhononDAO/phonon-core/pkg/model"
 	"github.com/btcsuite/btcd/btcec"
 	"github.com/btcsuite/btcd/chaincfg"
 	"github.com/btcsuite/btcd/txscript"

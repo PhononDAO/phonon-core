@@ -4,7 +4,7 @@ import (
 	"crypto/ecdsa"
 	"errors"
 
-	"github.com/GridPlus/phonon-core/pkg/model"
+	"github.com/PhononDAO/phonon-core/pkg/model"
 )
 
 /*

@@ -3,8 +3,8 @@ package smartcard
 import (
 	"encoding/binary"
 
-	"github.com/GridPlus/phonon-core/pkg/model"
-	"github.com/GridPlus/phonon-core/pkg/tlv"
+	"github.com/PhononDAO/phonon-core/pkg/model"
+	"github.com/PhononDAO/phonon-core/pkg/tlv"
 
 	log "github.com/sirupsen/logrus"
 )

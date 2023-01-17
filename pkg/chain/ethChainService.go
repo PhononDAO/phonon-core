@@ -6,8 +6,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/GridPlus/phonon-core/internal/util"
-	"github.com/GridPlus/phonon-core/pkg/model"
+	"github.com/PhononDAO/phonon-core/internal/util"
+	"github.com/PhononDAO/phonon-core/pkg/model"
 	"github.com/ethereum/go-ethereum"
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 

@@ -3,7 +3,7 @@ package mock
 import (
 	"testing"
 
-	"github.com/GridPlus/phonon-core/pkg/cert"
+	"github.com/PhononDAO/phonon-core/pkg/cert"
 )
 
 func TestCardPair(t *testing.T) {

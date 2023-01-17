@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/GridPlus/phonon-core/pkg/cert"
-	"github.com/GridPlus/phonon-core/pkg/model"
+	"github.com/PhononDAO/phonon-core/pkg/cert"
+	"github.com/PhononDAO/phonon-core/pkg/model"
 )
 
 type localCounterParty struct {

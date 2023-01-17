@@ -3,9 +3,9 @@ package orchestrator_test
 import (
 	"testing"
 
-	"github.com/GridPlus/phonon-core/pkg/backend/mock"
-	"github.com/GridPlus/phonon-core/pkg/model"
-	"github.com/GridPlus/phonon-core/pkg/orchestrator"
+	"github.com/PhononDAO/phonon-core/pkg/backend/mock"
+	"github.com/PhononDAO/phonon-core/pkg/model"
+	"github.com/PhononDAO/phonon-core/pkg/orchestrator"
 	log "github.com/sirupsen/logrus"
 )
 

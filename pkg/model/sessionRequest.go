@@ -3,8 +3,8 @@ package model
 import (
 	"crypto/ecdsa"
 
-	"github.com/GridPlus/phonon-core/internal/util"
-	"github.com/GridPlus/phonon-core/pkg/cert"
+	"github.com/PhononDAO/phonon-core/internal/util"
+	"github.com/PhononDAO/phonon-core/pkg/cert"
 )
 
 type SessionRequest interface {

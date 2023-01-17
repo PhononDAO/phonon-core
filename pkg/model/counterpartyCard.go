@@ -1,7 +1,7 @@
 package model
 
 import (
-	"github.com/GridPlus/phonon-core/pkg/cert"
+	"github.com/PhononDAO/phonon-core/pkg/cert"
 )
 
 type CounterpartyPhononCard interface {

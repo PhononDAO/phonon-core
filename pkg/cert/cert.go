@@ -9,7 +9,7 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/GridPlus/phonon-core/internal/util"
+	"github.com/PhononDAO/phonon-core/internal/util"
 	yubihsm "github.com/certusone/yubihsm-go"
 	"github.com/certusone/yubihsm-go/commands"
 	"github.com/certusone/yubihsm-go/connector"

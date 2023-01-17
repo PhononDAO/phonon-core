@@ -4,7 +4,7 @@ import (
 	"math/big"
 	"strconv"
 
-	"github.com/GridPlus/phonon-core/pkg/model"
+	"github.com/PhononDAO/phonon-core/pkg/model"
 	ishell "github.com/abiosoft/ishell/v2"
 )
 

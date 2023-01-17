@@ -8,7 +8,7 @@ import (
 	"github.com/GridPlus/keycard-go/apdu"
 	"github.com/GridPlus/keycard-go/globalplatform"
 	"github.com/GridPlus/keycard-go/gridplus"
-	"github.com/GridPlus/phonon-core/pkg/backend"
+	"github.com/PhononDAO/phonon-core/pkg/backend"
 )
 
 const (

@@ -3,8 +3,8 @@ package repl
 import (
 	"fmt"
 
-	"github.com/GridPlus/phonon-core/pkg/backend/mock"
-	"github.com/GridPlus/phonon-core/pkg/orchestrator"
+	"github.com/PhononDAO/phonon-core/pkg/backend/mock"
+	"github.com/PhononDAO/phonon-core/pkg/orchestrator"
 	"github.com/abiosoft/ishell/v2"
 )
 

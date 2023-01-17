@@ -11,13 +11,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/GridPlus/phonon-core/internal/util"
-	"github.com/GridPlus/phonon-core/pkg/backend"
-	card "github.com/GridPlus/phonon-core/pkg/backend"
-	"github.com/GridPlus/phonon-core/pkg/cert"
-	"github.com/GridPlus/phonon-core/pkg/chain"
-	"github.com/GridPlus/phonon-core/pkg/model"
-	remote "github.com/GridPlus/phonon-core/pkg/remote/v1/client"
+	"github.com/PhononDAO/phonon-core/internal/util"
+	"github.com/PhononDAO/phonon-core/pkg/backend"
+	card "github.com/PhononDAO/phonon-core/pkg/backend"
+	"github.com/PhononDAO/phonon-core/pkg/cert"
+	"github.com/PhononDAO/phonon-core/pkg/chain"
+	"github.com/PhononDAO/phonon-core/pkg/model"
+	remote "github.com/PhononDAO/phonon-core/pkg/remote/v1/client"
 
 	log "github.com/sirupsen/logrus"
 )
