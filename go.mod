@@ -1,4 +1,4 @@
-module github.com/GridPlus/phonon-core
+module github.com/PhononDAO/phonon-core
 
 go 1.19
 
